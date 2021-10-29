@@ -2,3 +2,4 @@
 .git
 tmp/todo.txt
 tmp/*
+*.txt
